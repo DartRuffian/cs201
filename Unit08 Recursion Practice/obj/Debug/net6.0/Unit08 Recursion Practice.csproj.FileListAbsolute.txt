@@ -1,0 +1,15 @@
+C:\Programming Projects\School\CS201\Unit08 Recursion Practice\bin\Debug\net6.0\Unit08 Recursion Practice.exe
+C:\Programming Projects\School\CS201\Unit08 Recursion Practice\bin\Debug\net6.0\Unit08 Recursion Practice.deps.json
+C:\Programming Projects\School\CS201\Unit08 Recursion Practice\bin\Debug\net6.0\Unit08 Recursion Practice.runtimeconfig.json
+C:\Programming Projects\School\CS201\Unit08 Recursion Practice\bin\Debug\net6.0\Unit08 Recursion Practice.dll
+C:\Programming Projects\School\CS201\Unit08 Recursion Practice\bin\Debug\net6.0\Unit08 Recursion Practice.pdb
+C:\Programming Projects\School\CS201\Unit08 Recursion Practice\obj\Debug\net6.0\Unit08 Recursion Practice.csproj.AssemblyReference.cache
+C:\Programming Projects\School\CS201\Unit08 Recursion Practice\obj\Debug\net6.0\Unit08 Recursion Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Projects\School\CS201\Unit08 Recursion Practice\obj\Debug\net6.0\Unit08 Recursion Practice.AssemblyInfoInputs.cache
+C:\Programming Projects\School\CS201\Unit08 Recursion Practice\obj\Debug\net6.0\Unit08 Recursion Practice.AssemblyInfo.cs
+C:\Programming Projects\School\CS201\Unit08 Recursion Practice\obj\Debug\net6.0\Unit08 Recursion Practice.csproj.CoreCompileInputs.cache
+C:\Programming Projects\School\CS201\Unit08 Recursion Practice\obj\Debug\net6.0\Unit08 Recursion Practice.dll
+C:\Programming Projects\School\CS201\Unit08 Recursion Practice\obj\Debug\net6.0\refint\Unit08 Recursion Practice.dll
+C:\Programming Projects\School\CS201\Unit08 Recursion Practice\obj\Debug\net6.0\Unit08 Recursion Practice.pdb
+C:\Programming Projects\School\CS201\Unit08 Recursion Practice\obj\Debug\net6.0\Unit08 Recursion Practice.genruntimeconfig.cache
+C:\Programming Projects\School\CS201\Unit08 Recursion Practice\obj\Debug\net6.0\ref\Unit08 Recursion Practice.dll

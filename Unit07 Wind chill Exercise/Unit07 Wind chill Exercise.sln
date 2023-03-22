@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit07 Wind chill Exercise", "Unit07 Wind chill Exercise.csproj", "{4E2C5D7C-72A8-4E1A-9BAC-6D759510505B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E2C5D7C-72A8-4E1A-9BAC-6D759510505B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2C5D7C-72A8-4E1A-9BAC-6D759510505B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2C5D7C-72A8-4E1A-9BAC-6D759510505B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2C5D7C-72A8-4E1A-9BAC-6D759510505B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53ED1AC9-902A-4B6C-A58B-A2B35E0EBB80}
+	EndGlobalSection
+EndGlobal

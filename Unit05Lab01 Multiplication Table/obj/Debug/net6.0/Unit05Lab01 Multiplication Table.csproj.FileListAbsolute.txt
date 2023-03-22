@@ -1,0 +1,15 @@
+C:\Programming Projects\School\CS201\Unit05Lab01 Multiplication Table\bin\Debug\net6.0\Unit05Lab01 Multiplication Table.exe
+C:\Programming Projects\School\CS201\Unit05Lab01 Multiplication Table\bin\Debug\net6.0\Unit05Lab01 Multiplication Table.deps.json
+C:\Programming Projects\School\CS201\Unit05Lab01 Multiplication Table\bin\Debug\net6.0\Unit05Lab01 Multiplication Table.runtimeconfig.json
+C:\Programming Projects\School\CS201\Unit05Lab01 Multiplication Table\bin\Debug\net6.0\Unit05Lab01 Multiplication Table.dll
+C:\Programming Projects\School\CS201\Unit05Lab01 Multiplication Table\bin\Debug\net6.0\Unit05Lab01 Multiplication Table.pdb
+C:\Programming Projects\School\CS201\Unit05Lab01 Multiplication Table\obj\Debug\net6.0\Unit05Lab01 Multiplication Table.csproj.AssemblyReference.cache
+C:\Programming Projects\School\CS201\Unit05Lab01 Multiplication Table\obj\Debug\net6.0\Unit05Lab01 Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Projects\School\CS201\Unit05Lab01 Multiplication Table\obj\Debug\net6.0\Unit05Lab01 Multiplication Table.AssemblyInfoInputs.cache
+C:\Programming Projects\School\CS201\Unit05Lab01 Multiplication Table\obj\Debug\net6.0\Unit05Lab01 Multiplication Table.AssemblyInfo.cs
+C:\Programming Projects\School\CS201\Unit05Lab01 Multiplication Table\obj\Debug\net6.0\Unit05Lab01 Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Programming Projects\School\CS201\Unit05Lab01 Multiplication Table\obj\Debug\net6.0\Unit05Lab01 Multiplication Table.dll
+C:\Programming Projects\School\CS201\Unit05Lab01 Multiplication Table\obj\Debug\net6.0\refint\Unit05Lab01 Multiplication Table.dll
+C:\Programming Projects\School\CS201\Unit05Lab01 Multiplication Table\obj\Debug\net6.0\Unit05Lab01 Multiplication Table.pdb
+C:\Programming Projects\School\CS201\Unit05Lab01 Multiplication Table\obj\Debug\net6.0\Unit05Lab01 Multiplication Table.genruntimeconfig.cache
+C:\Programming Projects\School\CS201\Unit05Lab01 Multiplication Table\obj\Debug\net6.0\ref\Unit05Lab01 Multiplication Table.dll

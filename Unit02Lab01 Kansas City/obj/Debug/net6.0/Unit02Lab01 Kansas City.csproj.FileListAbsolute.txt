@@ -1,0 +1,15 @@
+C:\Programming Projects\School\CS201\Unit02Lab01 Kansas City\bin\Debug\net6.0\Unit02Lab01 Kansas City.exe
+C:\Programming Projects\School\CS201\Unit02Lab01 Kansas City\bin\Debug\net6.0\Unit02Lab01 Kansas City.deps.json
+C:\Programming Projects\School\CS201\Unit02Lab01 Kansas City\bin\Debug\net6.0\Unit02Lab01 Kansas City.runtimeconfig.json
+C:\Programming Projects\School\CS201\Unit02Lab01 Kansas City\bin\Debug\net6.0\Unit02Lab01 Kansas City.dll
+C:\Programming Projects\School\CS201\Unit02Lab01 Kansas City\bin\Debug\net6.0\Unit02Lab01 Kansas City.pdb
+C:\Programming Projects\School\CS201\Unit02Lab01 Kansas City\obj\Debug\net6.0\Unit02Lab01 Kansas City.csproj.AssemblyReference.cache
+C:\Programming Projects\School\CS201\Unit02Lab01 Kansas City\obj\Debug\net6.0\Unit02Lab01 Kansas City.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Projects\School\CS201\Unit02Lab01 Kansas City\obj\Debug\net6.0\Unit02Lab01 Kansas City.AssemblyInfoInputs.cache
+C:\Programming Projects\School\CS201\Unit02Lab01 Kansas City\obj\Debug\net6.0\Unit02Lab01 Kansas City.AssemblyInfo.cs
+C:\Programming Projects\School\CS201\Unit02Lab01 Kansas City\obj\Debug\net6.0\Unit02Lab01 Kansas City.csproj.CoreCompileInputs.cache
+C:\Programming Projects\School\CS201\Unit02Lab01 Kansas City\obj\Debug\net6.0\Unit02Lab01 Kansas City.dll
+C:\Programming Projects\School\CS201\Unit02Lab01 Kansas City\obj\Debug\net6.0\refint\Unit02Lab01 Kansas City.dll
+C:\Programming Projects\School\CS201\Unit02Lab01 Kansas City\obj\Debug\net6.0\Unit02Lab01 Kansas City.pdb
+C:\Programming Projects\School\CS201\Unit02Lab01 Kansas City\obj\Debug\net6.0\Unit02Lab01 Kansas City.genruntimeconfig.cache
+C:\Programming Projects\School\CS201\Unit02Lab01 Kansas City\obj\Debug\net6.0\ref\Unit02Lab01 Kansas City.dll

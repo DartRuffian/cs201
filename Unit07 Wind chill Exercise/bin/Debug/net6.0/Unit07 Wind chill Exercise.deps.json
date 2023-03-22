@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Unit07 Wind chill Exercise/1.0.0": {
+        "runtime": {
+          "Unit07 Wind chill Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unit07 Wind chill Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

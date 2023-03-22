@@ -1,0 +1,15 @@
+C:\Programming Projects\School\CS201\Unit07Lab01 Income Tax Rate\bin\Debug\net6.0\Unit07Lab01 Income Tax Rate.exe
+C:\Programming Projects\School\CS201\Unit07Lab01 Income Tax Rate\bin\Debug\net6.0\Unit07Lab01 Income Tax Rate.deps.json
+C:\Programming Projects\School\CS201\Unit07Lab01 Income Tax Rate\bin\Debug\net6.0\Unit07Lab01 Income Tax Rate.runtimeconfig.json
+C:\Programming Projects\School\CS201\Unit07Lab01 Income Tax Rate\bin\Debug\net6.0\Unit07Lab01 Income Tax Rate.dll
+C:\Programming Projects\School\CS201\Unit07Lab01 Income Tax Rate\bin\Debug\net6.0\Unit07Lab01 Income Tax Rate.pdb
+C:\Programming Projects\School\CS201\Unit07Lab01 Income Tax Rate\obj\Debug\net6.0\Unit07Lab01 Income Tax Rate.csproj.AssemblyReference.cache
+C:\Programming Projects\School\CS201\Unit07Lab01 Income Tax Rate\obj\Debug\net6.0\Unit07Lab01 Income Tax Rate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Projects\School\CS201\Unit07Lab01 Income Tax Rate\obj\Debug\net6.0\Unit07Lab01 Income Tax Rate.AssemblyInfoInputs.cache
+C:\Programming Projects\School\CS201\Unit07Lab01 Income Tax Rate\obj\Debug\net6.0\Unit07Lab01 Income Tax Rate.AssemblyInfo.cs
+C:\Programming Projects\School\CS201\Unit07Lab01 Income Tax Rate\obj\Debug\net6.0\Unit07Lab01 Income Tax Rate.csproj.CoreCompileInputs.cache
+C:\Programming Projects\School\CS201\Unit07Lab01 Income Tax Rate\obj\Debug\net6.0\Unit07Lab01 Income Tax Rate.dll
+C:\Programming Projects\School\CS201\Unit07Lab01 Income Tax Rate\obj\Debug\net6.0\refint\Unit07Lab01 Income Tax Rate.dll
+C:\Programming Projects\School\CS201\Unit07Lab01 Income Tax Rate\obj\Debug\net6.0\Unit07Lab01 Income Tax Rate.pdb
+C:\Programming Projects\School\CS201\Unit07Lab01 Income Tax Rate\obj\Debug\net6.0\Unit07Lab01 Income Tax Rate.genruntimeconfig.cache
+C:\Programming Projects\School\CS201\Unit07Lab01 Income Tax Rate\obj\Debug\net6.0\ref\Unit07Lab01 Income Tax Rate.dll

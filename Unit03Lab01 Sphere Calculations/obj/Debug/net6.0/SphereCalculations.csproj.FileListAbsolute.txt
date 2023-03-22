@@ -1,0 +1,15 @@
+C:\Programming Projects\School\CS201\SphereCalculations\bin\Debug\net6.0\SphereCalculations.exe
+C:\Programming Projects\School\CS201\SphereCalculations\bin\Debug\net6.0\SphereCalculations.deps.json
+C:\Programming Projects\School\CS201\SphereCalculations\bin\Debug\net6.0\SphereCalculations.runtimeconfig.json
+C:\Programming Projects\School\CS201\SphereCalculations\bin\Debug\net6.0\SphereCalculations.dll
+C:\Programming Projects\School\CS201\SphereCalculations\bin\Debug\net6.0\SphereCalculations.pdb
+C:\Programming Projects\School\CS201\SphereCalculations\obj\Debug\net6.0\SphereCalculations.csproj.AssemblyReference.cache
+C:\Programming Projects\School\CS201\SphereCalculations\obj\Debug\net6.0\SphereCalculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Projects\School\CS201\SphereCalculations\obj\Debug\net6.0\SphereCalculations.AssemblyInfoInputs.cache
+C:\Programming Projects\School\CS201\SphereCalculations\obj\Debug\net6.0\SphereCalculations.AssemblyInfo.cs
+C:\Programming Projects\School\CS201\SphereCalculations\obj\Debug\net6.0\SphereCalculations.csproj.CoreCompileInputs.cache
+C:\Programming Projects\School\CS201\SphereCalculations\obj\Debug\net6.0\SphereCalculations.dll
+C:\Programming Projects\School\CS201\SphereCalculations\obj\Debug\net6.0\refint\SphereCalculations.dll
+C:\Programming Projects\School\CS201\SphereCalculations\obj\Debug\net6.0\SphereCalculations.pdb
+C:\Programming Projects\School\CS201\SphereCalculations\obj\Debug\net6.0\SphereCalculations.genruntimeconfig.cache
+C:\Programming Projects\School\CS201\SphereCalculations\obj\Debug\net6.0\ref\SphereCalculations.dll

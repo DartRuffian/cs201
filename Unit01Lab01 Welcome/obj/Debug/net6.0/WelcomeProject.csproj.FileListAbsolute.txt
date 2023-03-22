@@ -1,0 +1,15 @@
+C:\Programming Projects\School\CS201\WelcomeProject\obj\Debug\net6.0\WelcomeProject.csproj.AssemblyReference.cache
+C:\Programming Projects\School\CS201\WelcomeProject\obj\Debug\net6.0\WelcomeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Projects\School\CS201\WelcomeProject\obj\Debug\net6.0\WelcomeProject.AssemblyInfoInputs.cache
+C:\Programming Projects\School\CS201\WelcomeProject\obj\Debug\net6.0\WelcomeProject.AssemblyInfo.cs
+C:\Programming Projects\School\CS201\WelcomeProject\obj\Debug\net6.0\WelcomeProject.csproj.CoreCompileInputs.cache
+C:\Programming Projects\School\CS201\WelcomeProject\bin\Debug\net6.0\WelcomeProject.exe
+C:\Programming Projects\School\CS201\WelcomeProject\bin\Debug\net6.0\WelcomeProject.deps.json
+C:\Programming Projects\School\CS201\WelcomeProject\bin\Debug\net6.0\WelcomeProject.runtimeconfig.json
+C:\Programming Projects\School\CS201\WelcomeProject\bin\Debug\net6.0\WelcomeProject.dll
+C:\Programming Projects\School\CS201\WelcomeProject\bin\Debug\net6.0\WelcomeProject.pdb
+C:\Programming Projects\School\CS201\WelcomeProject\obj\Debug\net6.0\WelcomeProject.dll
+C:\Programming Projects\School\CS201\WelcomeProject\obj\Debug\net6.0\refint\WelcomeProject.dll
+C:\Programming Projects\School\CS201\WelcomeProject\obj\Debug\net6.0\WelcomeProject.pdb
+C:\Programming Projects\School\CS201\WelcomeProject\obj\Debug\net6.0\WelcomeProject.genruntimeconfig.cache
+C:\Programming Projects\School\CS201\WelcomeProject\obj\Debug\net6.0\ref\WelcomeProject.dll
