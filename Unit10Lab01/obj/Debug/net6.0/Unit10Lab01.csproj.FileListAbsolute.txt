@@ -1,0 +1,15 @@
+C:\Programming Projects\School\CS201\Unit10Lab01\bin\Debug\net6.0\Unit10Lab01.exe
+C:\Programming Projects\School\CS201\Unit10Lab01\bin\Debug\net6.0\Unit10Lab01.deps.json
+C:\Programming Projects\School\CS201\Unit10Lab01\bin\Debug\net6.0\Unit10Lab01.runtimeconfig.json
+C:\Programming Projects\School\CS201\Unit10Lab01\bin\Debug\net6.0\Unit10Lab01.dll
+C:\Programming Projects\School\CS201\Unit10Lab01\bin\Debug\net6.0\Unit10Lab01.pdb
+C:\Programming Projects\School\CS201\Unit10Lab01\obj\Debug\net6.0\Unit10Lab01.csproj.AssemblyReference.cache
+C:\Programming Projects\School\CS201\Unit10Lab01\obj\Debug\net6.0\Unit10Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Projects\School\CS201\Unit10Lab01\obj\Debug\net6.0\Unit10Lab01.AssemblyInfoInputs.cache
+C:\Programming Projects\School\CS201\Unit10Lab01\obj\Debug\net6.0\Unit10Lab01.AssemblyInfo.cs
+C:\Programming Projects\School\CS201\Unit10Lab01\obj\Debug\net6.0\Unit10Lab01.csproj.CoreCompileInputs.cache
+C:\Programming Projects\School\CS201\Unit10Lab01\obj\Debug\net6.0\Unit10Lab01.dll
+C:\Programming Projects\School\CS201\Unit10Lab01\obj\Debug\net6.0\refint\Unit10Lab01.dll
+C:\Programming Projects\School\CS201\Unit10Lab01\obj\Debug\net6.0\Unit10Lab01.pdb
+C:\Programming Projects\School\CS201\Unit10Lab01\obj\Debug\net6.0\Unit10Lab01.genruntimeconfig.cache
+C:\Programming Projects\School\CS201\Unit10Lab01\obj\Debug\net6.0\ref\Unit10Lab01.dll
