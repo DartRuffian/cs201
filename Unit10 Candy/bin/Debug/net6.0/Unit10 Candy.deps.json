@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Unit10 Candy/1.0.0": {
+        "runtime": {
+          "Unit10 Candy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unit10 Candy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
