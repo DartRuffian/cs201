@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Unit11Lab01/1.0.0": {
+        "runtime": {
+          "Unit11Lab01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unit11Lab01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
